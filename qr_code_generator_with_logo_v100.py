@@ -40,11 +40,11 @@ import qrcode
 
 url_to_code = 'https://georiska.africamuseum.be/en/'
 
-folder_logo = '/Users/benoitsmets/Docs_Mac/LOGOS/GeoRiskA/'
+folder_logo = '/Users/username/Documents/LOGOS/GeoRiskA/'
    # With a '/' at the end of the path
 logo_filename = 'GeoRiskA_Logo_normal2018_circle.jpg'
 
-output_folder_qrcode = '/Users/benoitsmets/Docs_Mac/LOGOS/QR_codes/'
+output_folder_qrcode = '/Users/username/Documents/LOGOS/QR_codes/'
    # With a '/' at the end of the path
 qrcode_name = 'QR_georiska_website'
 
