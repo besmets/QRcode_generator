@@ -22,7 +22,7 @@
     Python 3.9.13   
 
 <ins>Required Python packages</ins>:   
-    - Pillow (PIL) v9 or above
+    - Pillow (PIL) v9 or above   
     - qrcode
 
 <br>
